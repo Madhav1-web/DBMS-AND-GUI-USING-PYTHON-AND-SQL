@@ -17,7 +17,7 @@ from datetime import datetime
 mydb=mysql.connector.connect(
     host="localhost",
     user="root",
-    passwd="buyerday",
+    passwd="enteryourpassword",
     database = "project1",
     buffered = True,
     )
